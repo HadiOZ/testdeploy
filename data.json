@@ -1,0 +1,165 @@
+[{
+    "quizInfo": {
+        "title": "HTML & CSS",
+        "desc": "Latihan soal terkait materi HTML dan CSS.",
+        "img": "quiz1.png",
+        "category": "Website",
+        "code": "HOTN7D",
+        "point": 250,
+        "time": "15 sec",
+        "visibel": "Public"
+    },
+
+    "listQuiz":[{
+        "img": "",
+        "desc": "HTML merupakan singkatan dari...",
+        "opsiA": "Home Tool Markup Language",
+        "opsiB": "Hyperlinks and Text Markup Language",
+        "opsiC": "Hyper Text Markup Language",
+        "opsiD": "Hyper Tool Markup Language",
+        "answer": "c"
+    },
+    {
+        "img": "",
+        "desc": "Bahasa Pemrograman yang biasa digunakan untuk membuat halaman web adalah pengertian dari...",
+        "opsiA": "HTML",
+        "opsiB": "Web",
+        "opsiC": "Program",
+        "opsiD": "Internet",
+        "answer": "a"
+    },
+    {
+        "img": "",
+        "desc": "Untuk membuat tabel biasanya menggunakan tag...",
+        "opsiA": "<table>",
+        "opsiB": "<html>",
+        "opsiC": "<head>",
+        "opsiD": "<title>",
+        "answer": "a"
+    }]
+},
+{
+    "quizInfo": {
+        "title": "Javascript",
+        "desc": "Soal latihan mengenai pemahaman syntax dan implementasi kode Javascript.",
+        "img": "quiz2.png",
+        "category": "Website",
+        "code": "j)6gBd",
+        "point": 250,
+        "time": "15 sec",
+        "visibel": "Public"
+    },
+
+    "listQuiz":[{
+        "img": "",
+        "desc": "<input type=”button” value=”klik disini” onclick=”klik()”, event(kejadian) apa yang digunakan dalam  kode script tersebut …",
+        "opsiA": "alert",
+        "opsiB": "onmouseout",
+        "opsiC": "confirm",
+        "opsiD": "onclik",
+        "answer": "d"
+    },
+    {
+        "img": "",
+        "desc": "document.bgColor='red', apakah arti dari kode script tersebut … ",
+        "opsiA": "Memberikan warna merah pada background page",
+        "opsiB": "Memberikan warna merah pada link document",
+        "opsiC": "Memberikan warna merah untuk tulisan pada page ",
+        "opsiD": "Memberikan warna merah pada link dari halaman web",
+        "answer": "a"
+    },
+    {
+        "img": "",
+        "desc": "Fungsi yang digunakan untuk merubah satu nilai dari suatu variabel menjadi bilangan desimal adalah …",
+        "opsiA": "parseInt()",
+        "opsiB": "parseFLoat()",
+        "opsiC": "eval=(nama variabel)",
+        "opsiD": "window.prompt",
+        "answer": "b"
+    }]
+},
+{
+    "quizInfo": {
+        "title": "Android Pemula",
+        "desc": "Uji pemahaman terkait materi dasar pemrograman Android.",
+        "img": "quiz3.png",
+        "category": "Android",
+        "code": "jbdj67",
+        "point": 250,
+        "time": "15 sec",
+        "visibel": "Public"
+    },
+
+    "listQuiz":[{
+        "img": "",
+        "desc": "Bahasa pemrograman yang digunakan untuk membuat aplikasi android adalah",
+        "opsiA": "C++",
+        "opsiB": "Java",
+        "opsiC": "Phyton",
+        "opsiD": "Javascript",
+        "answer": "b"
+    },
+    {
+        "img": "",
+        "desc": "File layout pada android memiliki ekstensi",
+        "opsiA": ".java",
+        "opsiB": ".html",
+        "opsiC": ".xml",
+        "opsiD": ".json",
+        "answer": "c"
+    },
+    {
+        "img": "",
+        "desc": "Seluruh Activity yang ada pada projrct harus di daftartkan ke dalam File",
+        "opsiA": "build.gradle",
+        "opsiB": "config.json",
+        "opsiC": "manifest.xml",
+        "opsiD": "app folder",
+        "answer": "c"
+    }]
+},
+{
+    "quizInfo": {
+        "title": "Mengenal Komputer",
+        "desc": "Soal latihan untuk mengetahui seberapa baik kamu mengenal komponen komputer.",
+        "img": "quiz4.png",
+        "category": "Computer",
+        "code": "rhb98D",
+        "point": 250,
+        "time": "15 sec",
+        "visibel": "Public"
+    },
+
+    "listQuiz":[{
+        "img": "monitor.jpg",
+        "desc": "Gambar di atas merupakan",
+        "opsiA": "Input device",
+        "opsiB": "Output device",
+        "opsiC": "Proses device",
+        "opsiD": "Storage device",
+        "answer": "b"
+    },
+    {
+        "img": "printer.jpg",
+        "desc": "Gambar di atas bernama",
+        "opsiA": "Harddisk",
+        "opsiB": "Flopy disk",
+        "opsiC": "Printer",
+        "opsiD": "CPU",
+        "answer": "c"
+    },
+    {
+        "img": "ram.png",
+        "desc": "RAM merupakan penyimpanan yang bersifat volatile yang artinya",
+        "opsiA": "Penyimpanan data terbatas",
+        "opsiB": "Data tersimpan secara permanen",
+        "opsiC": "Data akan hilang bila tidak ada listrik",
+        "opsiD": "Data dapat disimpan dengan baik",
+        "answer": "c"
+    }]
+}
+
+
+
+
+]
